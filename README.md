@@ -1,1 +1,1 @@
-#shopping cart by Cysecor
+#shopping cart
